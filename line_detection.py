@@ -37,9 +37,9 @@ def process_image(image):
     return result
 
 
-white_output = 'test_videos/output.mp4'
-
-clip1 = VideoFileClip("test_videos/solidWhiteRight.mp4")
+white_output = 'output.mp4'
+#read the test vedio
+clip1 = VideoFileClip("solidWhiteRight.mp4")
 white_clip = clip1.fl_image(process_image)
 
 white_clip.write_videofile(white_output, audio=False)
