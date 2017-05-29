@@ -14,7 +14,7 @@ The steps are as follows:
 **Canny edge detection**
 ![edges](https://cloud.githubusercontent.com/assets/15232969/26561652/0b746b9a-448e-11e7-8e46-7603a213761d.jpg)
 
-**hough_lines transformation**
+**Hough_lines transformation**
 ![lines_edges](https://cloud.githubusercontent.com/assets/15232969/26561654/11b89396-448e-11e7-869c-b5ff8a1df7f8.jpg)
 
 **Finally if we combine the result with the original image**
