@@ -17,7 +17,7 @@ The steps are as follows:
 **hough_lines transformation**
 ![lines_edges](https://cloud.githubusercontent.com/assets/15232969/26561654/11b89396-448e-11e7-869c-b5ff8a1df7f8.jpg)
 
-Finally if we comine the result with the original image we can get the final result:
+**Finally if we combine the result with the original image**
 ![output](https://cloud.githubusercontent.com/assets/15232969/26561657/1357633a-448e-11e7-9e82-3ccb1807e8b0.jpg)
 
 
